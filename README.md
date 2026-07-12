@@ -20,16 +20,16 @@ Each project lives in its own folder with its own code.
 | Project | Description | Concepts Used |
 |---------|-------------|----------------|
 | [Calculator](./calculator) | Basic calculator supporting +, -, *, / | Functions, error handling |
-| [Compound Interest](./compund-interest) | Calculates compound interest on investments | Functions, math operations |
-| [Temperature Converter](./temparature_converter) | Converts between Celsius, Fahrenheit, and Kelvin | Functions, conditionals |
-| [Weight Converter](./weight_converter) | Converts between different weight units | Functions, conditionals |
+| [Compound Interest](./compound-interest) | Calculates compound interest on investments | Functions, math operations |
+| [Temperature Converter](./temperature-converter) | Converts between Celsius, Fahrenheit, and Kelvin | Functions, conditionals |
+| [Weight Converter](./weight-converter) | Converts between different weight units | Functions, conditionals |
 
 ### 🛠️ Utilities & Tools
 | Project | Description | Concepts Used |
 |---------|-------------|----------------|
 | [Alarm Clock](./alarm-clock) | Sets and triggers an alarm at a specified time | Time module, loops |
 | [Countdown Timer](./countdown-timer) | Simple countdown timer | Time module, loops |
-| [File Handling](./file-handiling) | Demonstrates reading and writing files | File I/O |
+| [File Handling](./file-handling) | Demonstrates reading and writing files | File I/O |
 | [Encryption](./encryption) | Encrypts and decrypts text using cipher logic | String manipulation, loops |
 | [String Validation](./string-validation) | Validates strings against custom rules | String methods, conditionals |
 | [API Calling](./api-calling) | Fetches Pokémon data (ID, name, weight, height) from the PokéAPI | API requests, JSON parsing, error handling |
@@ -38,7 +38,7 @@ Each project lives in its own folder with its own code.
 | Project | Description | Concepts Used |
 |---------|-------------|----------------|
 | [Banking System](./banking-system) | Simulates a simple ATM/bank with deposit, withdraw, and balance check | Functions, loops, conditionals |
-| [Concession Stand](./consession-stand) | Calculates order total at a food stand | Functions, dictionaries |
+| [Concession Stand](./concession-stand) | Calculates order total at a food stand | Functions, dictionaries |
 | [Shopping Cart](./shopping-cart) | Add items and calculate total cart value | Lists, functions |
 
 ### 🖥️ GUI Projects
