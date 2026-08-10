@@ -7,8 +7,8 @@ import pygame
 def set_alarm(alarm_time):
     print(f"Alarm set for: {alarm_time}")
     is_running = True
-    sound_file = "D:/PYTHON/Alarm_Clock/alarm.mp3"
-
+    sound_file = "D:/PYTHON/Alarm_Clock/alarm.mp3" 
+    
     while is_running:
         current_time = datetime.datetime.now().strftime("%H:%M:%S")
         print(current_time)
