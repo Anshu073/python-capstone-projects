@@ -24,6 +24,7 @@ def set_alarm(alarm_time):
                 time.sleep(1)
 
             is_running  = False
+            
 
         time.sleep(1)
 
